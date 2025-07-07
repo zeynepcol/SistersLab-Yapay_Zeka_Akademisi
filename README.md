@@ -82,7 +82,7 @@ Bu çalışma ile:
 ## 🙏 Teşekkürler
 
 Yapay Zeka Akademisi süresince kazandığım bilgi, deneyim ve ilham için teşekkür ederim.  
-Başta değerli eğitmenimiz **Yasemin Arslan** olmak üzere, tüm **SistersLab proje asistanlarına** ve emeği geçen herkese gönülden teşekkür ederim.  
+Başta değerli eğitmenimiz **Yasemin Arslan** olmak üzere, tüm **SistersLab ekibine** ve emeği geçen herkese gönülden teşekkür ederim.  
 Teknik donanımın yanı sıra ilham verici bir öğrenme ortamı sunduğunuz için minnettarım.
 
 ---
